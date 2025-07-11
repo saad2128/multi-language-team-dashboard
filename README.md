@@ -1,10 +1,10 @@
 ## 📋 Summary
-This implements a comprehensive Google Apps Script dashboard for tracking multi-language development teams working on Python, Rust, and JavaScript projects with a combined target of 30,000 tasks.
+This implements a comprehensive Google Apps Script dashboard for tracking multi-language development teams working on Python, Rust, and JavaScript projects with a combined target
 
 ### ✨ Key Features
 
 #### 🎯 **Multi-Language Architecture**
-- **3 Language Tracks**: Python, Rust, JavaScript (10,000 tasks each)
+- **3 Language Tracks**: Python, Rust, JavaScript 
 - **Language-specific color coding** and progress tracking
 - **Individual target monitoring** with completion percentages
 - **Team organization** by programming language
